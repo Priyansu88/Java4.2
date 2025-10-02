@@ -17,6 +17,29 @@ Employee Management System
 
 <img width="355" height="103" alt="Screenshot 2025-10-03 at 00 27 43" src="https://github.com/user-attachments/assets/ce70b7e9-81b9-4eba-9f2a-8f1285f0b1b6" />
 
- 
+
+
+
+ Part A — Sorting Employee Objects Using Lambda Expressions
+
+
+<img width="487" height="445" alt="Screenshot 2025-10-03 at 00 44 11" src="https://github.com/user-attachments/assets/95b30112-019e-4248-bb36-fe997a3a947f" />
+
+
+
+ Filtering & Sorting Student Objects Using Streams
+
+
+<img width="515" height="324" alt="Screenshot 2025-10-03 at 00 44 44" src="https://github.com/user-attachments/assets/b06e9fb4-7ebc-4259-a4f5-7233873ce254" />
+
+
+
+
+
+Part C — Stream Operations on Product Dataset
+
+
+<img width="787" height="569" alt="Screenshot 2025-10-03 at 00 45 51" src="https://github.com/user-attachments/assets/43d66937-6509-4dd1-b707-a796b3038a60" />
+
 
 
